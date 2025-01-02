@@ -279,7 +279,6 @@ public class EmailNotificationService implements NotificationService {
                                 "                    <p><strong>Amount Saved:</strong> " + formattedAmountSaved + "</p>"
                                 +
                                 "                    <p><strong>Target Date:</strong> " + formattedTargetDate + "</p>" +
-                                "                    <p><strong>Completion Date:</strong> " + formattedCompletionDate + "</p>" +
                                 "                </div>" +
                                 "                <a href='http://localhost:3000/user/goalSetting' class='cta-button'>Set a New Goal</a>"
                                 +
