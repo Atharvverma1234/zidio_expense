@@ -136,7 +136,6 @@ The Employee Expense Management System is a comprehensive full-stack application
 - Register as a new user.
 - Log in to access your dashboard.
 - Add, edit, or delete transactions.
-- Set budgets and financial goals.
 - Generate monthly financial reports.
 - Share reports and receive notifications.
 
