@@ -142,3 +142,8 @@ The Employee Expense Management System is a comprehensive full-stack application
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+## Screenshots
+
+![Picture1](https://github.com/user-attachments/assets/2c9ff003-db3b-4154-9bce-8c41c9f5d92b)
+
+![Picture2](https://github.com/user-attachments/assets/c024c667-bcb7-4259-abed-a087f920aa29)
