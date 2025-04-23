@@ -2,7 +2,7 @@
 # Employee Expense Management System
 
 ## Overview
-The Expense Management System is a comprehensive full-stack application designed to empower individuals in managing their personal finances effectively. This application provides users with an intuitive interface to track income and expenses, set financial goals, and generate insightful reports, enabling better financial decision-making. By combining robust backend services with an interactive frontend, the system ensures seamless user experience and operational efficiency.
+The Employee Expense Management System is a comprehensive full-stack application designed to empower individuals in managing their personal finances effectively. This application provides users with an intuitive interface to track income and expenses, set financial goals, and generate insightful reports, enabling better financial decision-making. By combining robust backend services with an interactive frontend, the system ensures seamless user experience and operational efficiency.
 
 ## Features
 ### Backend
@@ -143,8 +143,3 @@ The Expense Management System is a comprehensive full-stack application designed
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Summary
-
-The Expense Management System is a user-friendly platform offering a wide range of functionalities to simplify personal finance management. With its advanced features for both users and administrators, the system ensures a comprehensive approach to tracking and optimizing financial health. By leveraging cutting-edge technologies like Spring Boot and React.js, the application guarantees performance, scalability, and a seamless user experience.
-
-=======
